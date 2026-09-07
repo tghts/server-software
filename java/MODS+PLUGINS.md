@@ -40,7 +40,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Mods:** Forge
 
 ### [🧽 SpongeForge](https://www.spongepowered.org/downloads/spongeforge/)
-- **Version:** 1.8-1.12.2, 1.16.5, 1.19.4-1.21.1
+- **Version:** 1.8-1.12.2, 1.16.5, 1.19.4-1.21.1, 1.21.10
 - **Author:** SpongePowered
 - **Fork:** -
 - **Description:** Forge Mod that allows the use of Sponge Plugins.
