@@ -32,7 +32,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Mods:** Forge, NeoForge, Fabric (Version Specific)
 
 ### [🔶 Magma Neo](https://github.com/magmamaintained)
-- **Version:** 1.12.2, 1.21.1
+- **Version:** 1.12.2 (legacy), 1.21.1
 - **Author:** magmafoundation
 - **Fork:** NeoForge --> Magma Neo
 - **Description:** This project is the Successor of Magma, for NeoForge.
