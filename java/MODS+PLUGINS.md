@@ -49,7 +49,7 @@ This list contains Minecraft Java mods/plugins server software.
 
 
 ### [🧻 Cardboard](https://www.curseforge.com/minecraft/mc-mods/cardboard)
-- **Version:** 1.16.4-1.18.2, 1.19.2, 1.20.4
+- **Version:** 1.16.4-1.18.2, 1.19.2, 1.20.4, 1.21.4, 1.21.8, 1.21.11
 - **Author:** IsaiahPatton (CardboardPowered)
 - **Fork:** Fabric/CraftBukkit/Spigot/Paper --> Cardboard
 - **Description:** Fabric Mod that allows the use of Bukkit/Spigot/Paper Plugins.
