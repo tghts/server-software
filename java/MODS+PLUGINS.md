@@ -31,7 +31,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge, NeoForge, Fabric (Version Specific)
 
-### [🔶 Magma Neo](**https://github.com/magmamaintained**)
+### [🔶 Magma Neo](https://github.com/magmamaintained)
 - **Version:** 1.12.2, 1.21.1
 - **Author:** magmafoundation
 - **Fork:** NeoForge --> Magma Neo
