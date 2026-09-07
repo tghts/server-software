@@ -31,6 +31,14 @@ This list contains Minecraft Java mods/plugins server software.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge, NeoForge, Fabric (Version Specific)
 
+### [🔶 Magma Neo](**https://github.com/magmamaintained**)
+- **Version:** 1.12.2, 1.21.1
+- **Author:** magmafoundation
+- **Fork:** NeoForge --> Magma Neo
+- **Description:** This project is the Successor of Magma, for NeoForge.
+- **Plugins:** Bukkit, Spigot
+- **Mods:** NeoForge
+
 ### [😺 CatServer](https://github.com/Luohuayu/CatServer)
 - **Version:** 1.12.2, 1.16.5, 1.18.2
 - **Author:** Luohuayu
@@ -90,7 +98,7 @@ This list contains Minecraft Java mods/plugins server software.
 - **Description:** This project is to maintain the existing versions of Magma (1.20.1, 1.19.3, 1.18.2, 1.12.2).
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
-- 
+
 ### [🔶 Magma](https://magmafoundation.org)
 - **Alternative:** CatServer/Arclight
 - **Version:** 1.12.2, 1.15.2, 1.16.5, 1.18.2, 1.19.3
