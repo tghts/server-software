@@ -1,9 +1,19 @@
-# Minecraft Java Mods+Plugins Software.
+# Minecraft Java Mods+Plugins "Hybrid" Software.
+## TghtModified, originally [forked](https://github.com/LeStegii/server-software)
 This list contains Minecraft Java mods/plugins server software.
 
 ⚠️ **Warning!** If a project is not in active development exploits such as Log4J could still work!
 
-# ✔️ Active Development
+
+# ✔️ Active Development, as of 07.09.2026
+
+### [🚀 Youer](https://mohistmc.com/downloadSoftware?project=youer)
+- **Version:** 1.21.1, 26.2
+- **Author:** Mohist
+- **Fork:** NeoForge/Bukkit/Spigot/Paper --> Youer
+- **Description:** Software that allows the use of NeoForge Mods and Bukkit/Spigot/Paper plugins on your server.
+- **Plugins:** Bukkit, Spigot
+- **Mods:** NeoForge
 
 ### [🔗 Ketting](https://github.com/kettingpowered)
 - **Version:** 1.20.1, 1.20.2, 1.20.3 (Unsupported), 1.20.4
@@ -13,21 +23,13 @@ This list contains Minecraft Java mods/plugins server software.
 - **Plugins:** Bukkit, Spigot
 - **Mods:** Forge
 
-### [🪐 Mohist](https://mohistmc.com)
-- **Version:** 1.7.10 (Deprecated), 1.12.2, 1.16.5, 1.19.2-1.21
-- **Author:** Mgazul
-- **Fork:** Forge/Spigot/Paper/Atom/Thermos/um_bukkit --> Mohist
-- **Description:** Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server.
-- **Plugins:** Bukkit, Spigot
-- **Mods:** Forge
-
-### [🏔 Arclight](https://github.com/IzzelAliz/Arclight)
-- **Version:** 1.14-1.20.2 (Legacy), 1.20.4, 1.21 (Experimental)
+### [🏔 Arclight](https://github.com/IzzelAliz/Arclight) or [direct downloads](https://arclight.izzel.io/)
+- **Version:** 1.14-1.20.2 (Legacy), 1.20.4, 1.21.1
 - **Author:** IzzelAliz
 - **Fork:** Forge/CraftBukkit/Spigot --> Arclight
 - **Description:** A Bukkit(1.16/1.18) server implementation on Forge using Mixin.
 - **Plugins:** Bukkit, Spigot
-- **Mods:** Forge
+- **Mods:** Forge, NeoForge, Fabric (Version Specific)
 
 ### [😺 CatServer](https://github.com/Luohuayu/CatServer)
 - **Version:** 1.12.2, 1.16.5, 1.18.2
@@ -45,13 +47,6 @@ This list contains Minecraft Java mods/plugins server software.
 - **Plugins:** Sponge
 - **Mods:** Forge
 
-### [🚩 Banner](https://github.com/MohistMC/Banner)
-- **Version:** 1.19.4, 1.20.1, 1.20.2 (Experimental), 1.20.4-1.21 (Experimental)
-- **Author:** MohistMC
-- **Fork:** Fabric/CraftBukkit/Spigot/Paper/Mohist/Arclight --> Banner
-- **Description:** Fabric Mod that allows the use of Bukkit/Spigot/Paper Plugins.
-- **Plugins:** Bukkit, Spigot, Paper
-- **Mods:** Fabric
 
 ### [🧻 Cardboard](https://www.curseforge.com/minecraft/mc-mods/cardboard)
 - **Version:** 1.16.4-1.18.2, 1.19.2, 1.20.4
@@ -70,6 +65,22 @@ This list contains Minecraft Java mods/plugins server software.
 - **Mods:** Forge
 
 # ❌ Inactive Development
+
+### [🚩 Banner](https://github.com/MohistMC/Banner)
+- **Version:** 1.19.4, 1.20.1, 1.20.2 (Experimental), 1.20.4-1.21 (Experimental)
+- **Author:** MohistMC
+- **Fork:** Fabric/CraftBukkit/Spigot/Paper/Mohist/Arclight --> Banner
+- **Description:** Fabric Mod that allows the use of Bukkit/Spigot/Paper Plugins.
+- **Plugins:** Bukkit, Spigot, Paper
+- **Mods:** Fabric
+
+### [🪐 Mohist](https://mohistmc.com) EOL
+- **Version:** 1.7.10 (Deprecated), 1.12.2, 1.16.5, 1.19.2-1.21
+- **Author:** Mgazul
+- **Fork:** Forge/Spigot/Paper/Atom/Thermos/um_bukkit --> Mohist
+- **Description:** Software that allows the use of Forge Mods and Bukkit/Spigot/Paper plugins on your server.
+- **Plugins:** Bukkit, Spigot
+- **Mods:** Forge
 
 ### [🔶 Magma Maintained](https://github.com/magmamaintained)
 - **Alternative:** CatServer/Arclight
